@@ -1,0 +1,24 @@
+
+#rockbtn{
+  background-color: #0fc2b6;
+  outline: 2px;
+}
+
+#paperbtn{
+  background-color: #7718ec;
+  outline: 2px;
+}
+
+#scissorbtn{
+  background-color: #ee59da;
+  outline: 2px;
+}
+
+#output{
+  background-color: #c20000;
+}
+
+.bg-colorful{
+  background: rgb(154,198,254);
+background: linear-gradient(0deg, rgba(154,198,254,1) 16%, rgba(236,141,162,1) 47%, rgba(250,190,106,1) 82%);
+}
